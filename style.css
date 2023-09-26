@@ -1,0 +1,77 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+
+}
+
+tr,th {
+    text-align: center;
+    border: 1px solid;
+    padding: 8px;
+
+}
+
+
+.verde{
+    background-color: rgb(28, 150, 113);
+    border-style: solid;
+}
+
+.azulescuro {
+    background-color: rgb(26, 44, 206);
+    border-style: solid;
+}
+
+.azulclaro{
+    background-color: aqua;
+    border-style: solid;
+}
+
+.laranja {
+    background-color: rgb(240, 121, 37);
+    border-style: solid;
+}
+.pink{
+    background-color: crimson;
+    border-style: solid;
+}
+
+.petroleo {
+    background-color: darkslategrey;
+    border-style: solid;
+}
+
+.rosaclaro{
+    background-color: hotpink;
+    border-style: solid;
+}
+.ciano {
+    background-color:lightskyblue;
+    border-style: solid;
+}
+
+.amarelo {
+    background-color: #cfe02f;
+    border-style: solid;
+}
+
+.roxo {
+    background-color: blueviolet;
+    border-style: solid;
+}
+
+
+
+
+  
+
+
